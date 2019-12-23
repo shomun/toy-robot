@@ -1,0 +1,2 @@
+place 3,3,NORTH;move;move;right;move;move;
+place 3,3,WEST;move;move;right;move;move;
